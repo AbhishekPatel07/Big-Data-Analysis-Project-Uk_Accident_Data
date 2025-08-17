@@ -1,0 +1,16 @@
+# virtual envs
+venv/
+.venv/
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# data & models
+data/*.csv
+data/*.parquet
+data/raw/
+data/processed/
+models/
+results/*.png
